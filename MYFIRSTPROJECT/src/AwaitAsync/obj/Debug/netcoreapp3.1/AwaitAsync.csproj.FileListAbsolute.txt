@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/bin/Debug/netcoreapp3.1/AwaitAsync.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/bin/Debug/netcoreapp3.1/AwaitAsync.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/bin/Debug/netcoreapp3.1/AwaitAsync.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/bin/Debug/netcoreapp3.1/AwaitAsync.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/bin/Debug/netcoreapp3.1/AwaitAsync.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/AwaitAsync/obj/Debug/netcoreapp3.1/AwaitAsync.genruntimeconfig.cache

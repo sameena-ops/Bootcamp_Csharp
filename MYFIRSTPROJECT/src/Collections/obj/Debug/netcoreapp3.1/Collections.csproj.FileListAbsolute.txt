@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/bin/Debug/netcoreapp3.1/Collections.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/bin/Debug/netcoreapp3.1/Collections.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/bin/Debug/netcoreapp3.1/Collections.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Collections/obj/Debug/netcoreapp3.1/Collections.genruntimeconfig.cache

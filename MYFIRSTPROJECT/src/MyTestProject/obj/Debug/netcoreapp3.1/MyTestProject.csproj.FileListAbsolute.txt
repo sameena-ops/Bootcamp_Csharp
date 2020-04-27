@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/bin/Debug/netcoreapp3.1/MyTestProject.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/bin/Debug/netcoreapp3.1/MyTestProject.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/bin/Debug/netcoreapp3.1/MyTestProject.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/bin/Debug/netcoreapp3.1/MyTestProject.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/bin/Debug/netcoreapp3.1/MyTestProject.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/MyTestProject/obj/Debug/netcoreapp3.1/MyTestProject.genruntimeconfig.cache

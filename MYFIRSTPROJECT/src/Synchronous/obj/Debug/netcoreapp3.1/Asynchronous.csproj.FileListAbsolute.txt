@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/bin/Debug/netcoreapp3.1/Asynchronous.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/bin/Debug/netcoreapp3.1/Asynchronous.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/bin/Debug/netcoreapp3.1/Asynchronous.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/bin/Debug/netcoreapp3.1/Asynchronous.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/bin/Debug/netcoreapp3.1/Asynchronous.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Asynchronous/obj/Debug/netcoreapp3.1/Asynchronous.genruntimeconfig.cache

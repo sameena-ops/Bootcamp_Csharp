@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.genruntimeconfig.cache

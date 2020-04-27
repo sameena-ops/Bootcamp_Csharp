@@ -1,0 +1,14 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CopyComplete

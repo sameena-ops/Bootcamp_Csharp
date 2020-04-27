@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KC6e0qzGNRonzyM1udzD1NI9Y71gn5a4m31bsaw2oLtxK6Qi3T80rB5ejZD4fg4kXVorp8HfUoKebGSkoLjU1A==",
+  "success": true,
+  "projectFilePath": "/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/Users/sameenasyed/.nuget/packages/restsharp/106.10.2-alpha.0.8/restsharp.106.10.2-alpha.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

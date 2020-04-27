@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestSharp/106.10.2-alpha.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestSharp/106.10.2-alpha.0.8": {
+      "sha512": "Z1g/d7L4LNq5if6WBOPHZKPd2OHFfi1kNW/pVBXRMfwHLQZajKmDsf7H3wZZhKoFwRzRywzRS4cbo8jKlW8PiA==",
+      "type": "package",
+      "path": "restsharp/106.10.2-alpha.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.10.2-alpha.0.8.nupkg.sha512",
+        "restsharp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RestSharp >= 106.10.2-alpha.0.8"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sameenasyed/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/Arrays.csproj",
+      "projectName": "Arrays",
+      "projectPath": "/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/Arrays.csproj",
+      "packagesPath": "/Users/sameenasyed/.nuget/packages/",
+      "outputPath": "/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Arrays/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sameenasyed/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[106.10.2-alpha.0.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

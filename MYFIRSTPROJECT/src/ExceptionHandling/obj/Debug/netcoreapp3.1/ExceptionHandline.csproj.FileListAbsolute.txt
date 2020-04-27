@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/bin/Debug/netcoreapp3.1/ExceptionHandline.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/bin/Debug/netcoreapp3.1/ExceptionHandline.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/bin/Debug/netcoreapp3.1/ExceptionHandline.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/bin/Debug/netcoreapp3.1/ExceptionHandline.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/bin/Debug/netcoreapp3.1/ExceptionHandline.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/ExceptionHandline/obj/Debug/netcoreapp3.1/ExceptionHandline.genruntimeconfig.cache

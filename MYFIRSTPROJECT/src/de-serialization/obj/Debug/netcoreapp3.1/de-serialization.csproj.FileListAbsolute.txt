@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/bin/Debug/netcoreapp3.1/de-serialization.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/bin/Debug/netcoreapp3.1/de-serialization.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/bin/Debug/netcoreapp3.1/de-serialization.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/bin/Debug/netcoreapp3.1/de-serialization.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/bin/Debug/netcoreapp3.1/de-serialization.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/de-serialization/obj/Debug/netcoreapp3.1/de-serialization.genruntimeconfig.cache

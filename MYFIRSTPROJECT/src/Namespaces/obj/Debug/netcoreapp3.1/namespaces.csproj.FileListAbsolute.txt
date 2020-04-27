@@ -1,0 +1,12 @@
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/namespaces/obj/Debug/netcoreapp3.1/namespaces.csprojAssemblyReference.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/namespaces/obj/Debug/netcoreapp3.1/namespaces.csproj.CoreCompileInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/namespaces/obj/Debug/netcoreapp3.1/namespaces.AssemblyInfoInputs.cache
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/namespaces/obj/Debug/netcoreapp3.1/namespaces.AssemblyInfo.cs
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/bin/Debug/netcoreapp3.1/namespaces.deps.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/bin/Debug/netcoreapp3.1/namespaces.runtimeconfig.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/bin/Debug/netcoreapp3.1/namespaces.runtimeconfig.dev.json
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/bin/Debug/netcoreapp3.1/namespaces.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/bin/Debug/netcoreapp3.1/namespaces.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/obj/Debug/netcoreapp3.1/namespaces.dll
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/obj/Debug/netcoreapp3.1/namespaces.pdb
+/Users/sameenasyed/Documents/Dotnet/MYFIRSTPROJECT/src/Namespaces/obj/Debug/netcoreapp3.1/namespaces.genruntimeconfig.cache
